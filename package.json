@@ -12,7 +12,8 @@
   "devDependencies": {
     "@playwright/test": "^1.42.1",
     "@types/crypto-js": "^4.2.2",
-    "@types/node": "^20.11.28"
+    "@types/node": "^20.11.28",
+    "allure-playwright": "^2.14.1"
   },
   "dependencies": {
     "crypto-js": "^4.2.0",

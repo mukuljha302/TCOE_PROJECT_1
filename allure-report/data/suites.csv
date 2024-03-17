@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 17 18:53:32 IST 2024","Sun Mar 17 18:53:33 IST 2024","1375","chromium","loginTest.spec.ts","","","","Encryption test",""
+"passed","Sun Mar 17 18:53:32 IST 2024","Sun Mar 17 18:53:34 IST 2024","1530","chromium","loginTest.spec.ts","","","","Sample env test",""
+"passed","Sun Mar 17 18:53:32 IST 2024","Sun Mar 17 18:53:53 IST 2024","21093","chromium","loginTest.spec.ts","","","","test",""
